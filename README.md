@@ -14,3 +14,12 @@ It showcases my skills, services, and projects as a frontend developer.
 - ⚡ **Fast & Lightweight** – Pure HTML, TailwindCSS, and JavaScript.  
 
 ---
+
+## 🛠️ Tech Stack
+- HTML5
+- Tailwind CSS
+- JavaScript
+- Framer Motion (for animations in projects)
+- Web3Forms API (for contact form)
+
+---
