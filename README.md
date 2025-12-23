@@ -1,25 +1,44 @@
-# 🌐 Personal Portfolio Website  
+# 🌐 Personal Portfolio Website
 
-This is my **personal portfolio website** built using **HTML, TailwindCSS, and JavaScript**.  
-It showcases my skills, services, and projects as a frontend developer.  
+This repository contains my **personal portfolio website**, built using **HTML, Tailwind CSS, and JavaScript**.  
+The website showcases my skills, services, and projects, and acts as a central place to highlight my frontend and web development work.
+
+---
+
+## 🚀 Live Demo
+👉 https://personal-portfolio-bay-one-77.vercel.app/
+
+---
+
+## 📸 Preview
+![Portfolio Preview](./images3/work-3.png)
 
 ---
 
 ## ✨ Features
-- 🖥️ **Responsive Design** – Works on all devices (desktop, tablet, mobile).  
-- 🎨 **Modern UI** – Clean, minimal, and professional look using TailwindCSS.  
-- 🌗 **Dark/Light Mode** – Theme toggle for better user experience.  
-- 📂 **Projects Showcase** – Weather App, Estate Landing Page, Portfolio Website, etc.  
-- 📬 **Contact Form** – Integrated with Web3Forms API for email submissions.  
-- ⚡ **Fast & Lightweight** – Pure HTML, TailwindCSS, and JavaScript.  
+- 📱 **Responsive Design** – Works seamlessly on desktop, tablet, and mobile devices  
+- 🎨 **Modern UI** – Clean and minimal interface built with Tailwind CSS  
+- 🌗 **Dark / Light Mode** – Theme toggle with saved user preference  
+- 📂 **Projects Showcase** – Displays real projects with live demos and GitHub links  
+- 📬 **Contact Form** – Integrated with Web3Forms API for form submissions  
+- ⚡ **Fast & Lightweight** – Built using pure HTML, Tailwind CSS, and JavaScript  
 
 ---
 
 ## 🛠️ Tech Stack
-- HTML5
-- Tailwind CSS
-- JavaScript
-- Framer Motion (for animations in projects)
-- Web3Forms API (for contact form)
+- **HTML5**
+- **Tailwind CSS**
+- **JavaScript**
+- **Framer Motion** (used in individual project demos)
+- **Web3Forms API** (contact form handling)
 
 ---
+
+## 📁 Folder Structure
+```text
+Portfolio Website/
+├── images3/              # Images, icons, and assets
+├── index.html            # Main HTML file
+├── script.js             # JavaScript (menu, scroll, theme toggle)
+├── tailwind.config.js    # Tailwind configuration
+└── README.md             # Project documentation
